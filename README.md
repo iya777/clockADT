@@ -1,6 +1,8 @@
 # clockADT
 Sistem Waktu / Clock System dalam C++ menggunakan Codeblocks
 
+![alt text](https://github.com/[iya777]/[clockADT]/clocksys.jpg?raw=true)
+
 Features:
 - Membuat clock
 - Print clock
