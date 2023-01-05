@@ -9,7 +9,6 @@ Features:
 - Membandingkan dua buah clock ( clock1 == clock2? )
 
 Dibuat oleh Ilham Yahya.
-Bebas digunakan oleh siapapun.
 
 Bahasa: C++
 IDE: Codeblocks
