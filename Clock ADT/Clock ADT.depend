@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665450087 source:d:\cpp\clock adt\clock.cpp
+	"Clock.h"
+	<iostream>
+
+1665449947 d:\cpp\clock adt\clock.h
+
+1665450171 source:d:\cpp\clock adt\main.cpp
+	<iostream>
+	"Clock.h"
+
