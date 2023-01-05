@@ -10,5 +10,4 @@ Features:
 
 Dibuat oleh Ilham Yahya.
 
-Bahasa: C++
-IDE: Codeblocks
+C++ & Codeblocks
