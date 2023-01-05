@@ -8,7 +8,7 @@ Features:
 - Mengambil nilai dari jam, menit, ataupun detik
 - Membandingkan dua buah clock ( clock1 == clock2? )
 
-Dibuat oleh Ilham Yahya
+Dibuat oleh Ilham Yahya.
 Bebas digunakan oleh siapapun.
 
 Bahasa: C++
